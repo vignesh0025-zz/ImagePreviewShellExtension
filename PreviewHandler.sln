@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreviewHandler", "PreviewHandler\PreviewHandler.csproj", "{5C519732-8666-4430-9FE2-FFD9C64979FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargaImage", "..\..\..\..\Downloads\Compressed\TargaImage_src\TargaImage.csproj", "{56F4BD87-2404-4263-80D5-6FA2161EB0A4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,22 +39,6 @@ Global
 		{5C519732-8666-4430-9FE2-FFD9C64979FB}.Release|x64.Build.0 = Release|x64
 		{5C519732-8666-4430-9FE2-FFD9C64979FB}.Release|x86.ActiveCfg = Release|x86
 		{5C519732-8666-4430-9FE2-FFD9C64979FB}.Release|x86.Build.0 = Release|x86
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|Win32.ActiveCfg = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|x64.ActiveCfg = Debug|x64
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|x64.Build.0 = Debug|x64
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|Win32.ActiveCfg = Release|Any CPU
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|x64.ActiveCfg = Release|x64
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|x64.Build.0 = Release|x64
-		{56F4BD87-2404-4263-80D5-6FA2161EB0A4}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
