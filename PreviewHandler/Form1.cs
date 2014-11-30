@@ -24,12 +24,12 @@ public partial class PreviewControl : PreviewHandlerControl
             TabControl tb = new TabControl();
 
             TabPage tp1 = new TabPage();
-            tp1.Text = "Properities";
+            tp1.Text = "Properities ";
             tp1.AutoScroll = true;
 
             tp1.Controls.Add(new Label
             {
-                Text = "Width:     " + tga.Header.Width + " px",
+                Text = "Width :     " + tga.Header.Width + " px",
                 Dock = DockStyle.Top
             });
             tp1.Controls.Add(new Label
